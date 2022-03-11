@@ -1,0 +1,1 @@
+Images will be uploaded in this folder
